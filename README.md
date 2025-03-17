@@ -10,7 +10,7 @@ This project utilizes the **BLIP (Bootstrapped Language-Image Pretraining)** mod
 -**pre-tuned model**: fine-tuned model the serves a specific need (tagging lost items in the airport).
   
 ## Technologies Used
-- **Jupyter
+- **Jupyter**
 - **Python**
 - **PyTorch**
 - **Transformers (Hugging Face)**
